@@ -11,9 +11,11 @@ Payment.java
 کلاس پایه پرداخت
 
 BitcoinPayment.java 
+
 کلاس پرداخت بیت کوین
 
 CreditCardPayment.java
+
 کلاس پرداخت کارت اعتباری
 
 PaypalPayment.java  
@@ -26,4 +28,5 @@ PremiumCustomer.java
 کلاس مشتری ویژه
 
 RegularCustomer.java
+
 کلاس مشتری عادی
