@@ -24,8 +24,8 @@ public class Main {
     customer3.makePayment(bitcoinPayment,76);
 
 
-    System.out.Showprintln("customer1 payment history:");
-    premiumCustomer1.PaymentHistory();
+    System.out.println("customer1 payment history:");
+    premiumCustomer1.ShowPaymentHistory();
 
     System.out.println("customer2 payment history:");
     customer2.ShowPaymentHistory();
